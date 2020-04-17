@@ -5,6 +5,4 @@ function getSum() {
     };
 }
 var sum = getSum();
-console.log(sum(3));
-console.log(sum(5));
-console.log(sum(20));
+
